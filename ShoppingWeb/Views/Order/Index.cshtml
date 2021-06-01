@@ -1,0 +1,89 @@
+﻿@model ShoppingWeb.Models.Khachhang
+@using Microsoft.AspNetCore.Http;
+@using Newtonsoft.Json;
+@{
+    var data = Context.Session.GetString("cart");
+
+    int coutCart = 0;
+    if (data == null)
+    {
+        coutCart = 0;
+    }
+    else
+    {
+        var data2 = Context.Session.GetString("cart");
+        List<Cart> dataCart = JsonConvert.DeserializeObject<List<Cart>>(data2);
+        foreach (var item in dataCart)
+        {
+            coutCart += item.soLuong;
+        }
+
+    }
+
+}
+<link href="~/css/styles.css" rel="stylesheet" />
+@{
+    ViewData["Title"] = "ListCart";
+    Layout = "~/Views/Shared/_LayoutCate.cshtml";
+}
+<style>
+    td, th {
+        padding: 10px;
+    }
+</style>
+<script src="~/js/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".updateCart").click(function (event) {
+            event.preventDefault();
+            var quantity = $(".quantity_" + $(this).attr("data-id")).val();
+            console.log(quantity);
+            $.ajax({
+                type: "POST",
+                url:"@Url.Action("updateCart","Orfer")",
+                data: {
+                    id: $(this).attr("data-id"),
+                    quantity:quantity
+                },
+                success: function (result) {
+                    window.location.href = '@Url.Action("ListCart","Order")';
+                }
+            });
+        });
+    });
+</script>
+
+<div class="list-cart">
+    <table class="cart" border="1">
+        <tr>
+            <th>Mã sản phẩm</th>
+            <th>Tên sản phẩm</th>
+            <th>Image</th>
+            <th>Số lượng</th>
+            <th>Giá bán</th>
+            <th>Tổng tiền</th>
+            <th>Delete</th>
+        </tr>
+        @{
+                int STT = 0;
+                foreach (var item in ViewBag.cart)
+                {
+                    string txt_class = "quantity_" + item.sanPham.MaSp;
+                    STT++;
+                    int total = item.sanPham.GiaBan * item.soLuong;
+                <tr>
+                    <td>@item.sanPham.MaSp</td>
+                    <td>@item.sanPham.TenSp</td>
+                    <td><img class="product_image_detail" src="~/image/@item.sanPham.HinhSp" width="100" height="100" /></td>
+                    <td><input type="number" class="@txt_class" value="@item.soLuong" /></td>
+                    <td>@item.sanPham.GiaBan</td>
+                    <td>@total</td>
+                    <td><a asp-controller="order" asp-action="deleteCart" asp-route-id="@item.sanPham.MaSp">Delete</a></td>
+                </tr>
+                }
+                
+            }
+    </table>
+    }
+
+</div>

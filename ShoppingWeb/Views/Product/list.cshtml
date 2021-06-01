@@ -1,0 +1,68 @@
+﻿@model ShoppingWeb.Models.Sanpham
+@{
+    Layout = "_LayoutCate";
+}
+<link href="~/css/styles.css" rel="stylesheet" />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MaSp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenSp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GiaBan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoLuongKho)
+            </th>
+            <th>
+                @Html.DisplayFor(model => model.HinhSp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaLoai)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.DienThoai)
+        {
+            <tr>
+                <td>
+                   @item.MaSp
+                </td>
+                <td>
+                    @item.TenSp
+                </td>
+                <td>
+                    @item.MoTa
+                </td>
+                <td>
+                    @item.GiaBan
+                </td>
+                <td>
+                    @item.SoLuongKho
+                </td>
+                <td>
+                    <div class="product_image">
+                        <img src="~/image/@item.HinhSp" alt="Alternate Text" />
+                    </div>
+                    
+                </td>
+                <td>
+                    @item.MaLoai
+                </td>
+                <td>
+                    <a asp-action="Detail" asp-route-id="@item.MaSp">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.MaSp">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

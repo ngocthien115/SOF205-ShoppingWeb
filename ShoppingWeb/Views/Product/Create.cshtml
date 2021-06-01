@@ -1,0 +1,51 @@
+﻿@model ShoppingWeb.Models.Sanpham
+@{
+    Layout = "_LayoutCate";
+}
+
+<h4>Products</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TenSp" class="control-label"></label>
+                <input asp-for="TenSp" class="form-control" />
+                <span asp-validation-for="TenSp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MoTa" class="control-label"></label>
+                <input asp-for="MoTa" class="form-control" />
+                <span asp-validation-for="MoTa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="imageFile" class="control-label"></label>
+                <input asp-for="imageFile" accept="image/*"/>
+                <span asp-validation-for="imageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoLuongKho" class="control-label"></label>
+                <input asp-for="SoLuongKho" class="form-control" />
+                <span asp-validation-for="SoLuongKho" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaBan" class="control-label"></label>
+                <input asp-for="GiaBan" class="form-control" />
+                <span asp-validation-for="GiaBan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaLoai" class="control-label"></label>
+                <input asp-for="MaLoai" class="form-control" />
+                <span asp-validation-for="MaLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="list">Back to List</a>
+</div>

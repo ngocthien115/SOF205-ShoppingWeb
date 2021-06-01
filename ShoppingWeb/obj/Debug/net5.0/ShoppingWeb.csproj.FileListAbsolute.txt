@@ -1,0 +1,488 @@
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\appsettings.Development.json
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\appsettings.json
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.exe
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.deps.json
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.runtimeconfig.json
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.runtimeconfig.dev.json
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ref\ShoppingWeb.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.pdb
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.Views.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.Views.pdb
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Humanizer.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csprojAssemblyReference.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.AssemblyInfoInputs.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.AssemblyInfo.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csproj.CoreCompileInputs.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.MvcApplicationPartsAssemblyInfo.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorAssemblyInfo.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorAssemblyInfo.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\staticwebassets\ShoppingWeb.StaticWebAssets.Manifest.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\staticwebassets\ShoppingWeb.StaticWebAssets.xml
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\scopedcss\bundle\ShoppingWeb.styles.css
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.TagHelpers.input.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.TagHelpers.output.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorCoreGenerate.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorTargetAssemblyInfo.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorTargetAssemblyInfo.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.Views.pdb
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csproj.CopyComplete
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ref\ShoppingWeb.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.pdb
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.genruntimeconfig.cache
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\iphone.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\huawei.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\samsung.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\vsmart.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\xiaomi.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCate.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\index.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\list.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Detail.cshtml.g.cs
+G:\repos\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\appsettings.Development.json
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\appsettings.json
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.exe
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.deps.json
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.runtimeconfig.json
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.runtimeconfig.dev.json
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ref\ShoppingWeb.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.pdb
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.Views.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.Views.pdb
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Humanizer.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csprojAssemblyReference.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.AssemblyInfoInputs.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.AssemblyInfo.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csproj.CoreCompileInputs.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorAssemblyInfo.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorAssemblyInfo.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\staticwebassets\ShoppingWeb.StaticWebAssets.Manifest.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\staticwebassets\ShoppingWeb.StaticWebAssets.xml
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\scopedcss\bundle\ShoppingWeb.styles.css
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.TagHelpers.input.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.TagHelpers.output.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorCoreGenerate.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Detail.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\huawei.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\index.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\iphone.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\list.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\samsung.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\vsmart.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\xiaomi.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCate.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorTargetAssemblyInfo.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorTargetAssemblyInfo.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.Views.pdb
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csproj.CopyComplete
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ref\ShoppingWeb.dll
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.pdb
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.genruntimeconfig.cache
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\tablet.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\laptop.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\macbook.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\thongtin.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Khachhang\index.cshtml.g.cs
+D:\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Khachhang\thanhcong.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\appsettings.Development.json
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\appsettings.json
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.exe
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.deps.json
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.runtimeconfig.json
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.runtimeconfig.dev.json
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ref\ShoppingWeb.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.pdb
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.Views.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ShoppingWeb.Views.pdb
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Humanizer.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csprojAssemblyReference.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.AssemblyInfoInputs.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.AssemblyInfo.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csproj.CoreCompileInputs.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorAssemblyInfo.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorAssemblyInfo.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\staticwebassets\ShoppingWeb.StaticWebAssets.Manifest.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\staticwebassets\ShoppingWeb.StaticWebAssets.xml
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\scopedcss\bundle\ShoppingWeb.styles.css
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.TagHelpers.input.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.TagHelpers.output.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorCoreGenerate.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Khachhang\index.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Khachhang\thanhcong.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Detail.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\huawei.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\index.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\iphone.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\laptop.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\list.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\macbook.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\samsung.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\tablet.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\thongtin.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\vsmart.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Product\xiaomi.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCate.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorTargetAssemblyInfo.cache
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.RazorTargetAssemblyInfo.cs
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.Views.pdb
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.csproj.CopyComplete
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ref\ShoppingWeb.dll
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.pdb
+D:\Môn cũ\NET104-CSHARP4\thienvnps11984_Assignment\VuNgocThien_Assignment\ShoppingWeb\obj\Debug\net5.0\ShoppingWeb.genruntimeconfig.cache

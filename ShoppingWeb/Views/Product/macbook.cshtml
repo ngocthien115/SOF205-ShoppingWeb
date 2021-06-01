@@ -1,0 +1,24 @@
+﻿@model ShoppingWeb.Models.ProductModel
+@{
+    Layout = "_LayoutCate";
+}
+<link href="~/css/styles.css" rel="stylesheet" />
+
+<div class="product">
+    @foreach (var item in ViewBag.macbook)
+    {
+        <div class="items">
+            <a href="#">
+                <div class="product_image "><img class="img-thumbnail img-fluid" src="~/image/@item.HinhSp" alt="" srcset=""></div>
+                <div class="product_infomation">
+                    <div class="product_name"><a href="#">@item.TenSp</a></div>
+                    <div class="price">@item.GiaBan</div>
+                </div>
+                <div class="buy_cart">
+                    <a href="" class="buy buy_cart_inline">Mua ngay</a>
+                    <a asp-controller="order" asp-action="addCart" asp-route-id="@item.MaSp" class="add_cart buy_cart_inline"><i class="fas fa-cart-plus"></i></a>
+                </div>
+            </a>
+        </div>
+    }
+</div>

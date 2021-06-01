@@ -1,0 +1,28 @@
+﻿@model ShoppingWeb.Models.ProductModel
+@{
+    Layout = "_Layout";
+}
+@{
+    ViewData["Title"] = "Home Page";
+}
+<link href="~/css/styles.css" rel="stylesheet" />
+
+<div class="product">
+    @foreach (var item in ViewBag.DienThoai)
+    {
+        <div class="items">
+            <a href="#">
+                <div class="product_image "><img class="img-thumbnail img-fluid" src="~/image/@item.HinhSp" alt="" srcset=""></div>
+                <div class="product_infomation">
+                    <div class="product_name"><a href="#">@item.TenSp</a></div>
+                    <div class="price">@item.GiaBan</div>
+                </div>
+                <div class="buy_cart">
+                    <a href="#" class="buy buy_cart_inline">Mua ngay</a>
+                    <a href="#" class="add_cart buy_cart_inline"><i class="fas fa-cart-plus"></i></a>
+                </div>
+            </a>
+        </div>
+    }
+</div>
+
